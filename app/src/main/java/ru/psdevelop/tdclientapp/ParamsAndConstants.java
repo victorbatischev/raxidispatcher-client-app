@@ -4,9 +4,9 @@ package ru.psdevelop.tdclientapp;
  * Created by Станислав on 27.02.2016.
  */
 public abstract class ParamsAndConstants {
-    public static double defLat=44.878208;
-    public static double defLon=37.314103;
-    public static String srvHost="http://192.168.1.90:8081";
+    public static double defLat=48.078208;
+    public static double defLon=37.914103;
+    public static String srvHost="http://45.141.103.215:8081";
     public static final String REGION_DEFAULT = " Анапский район Анапа, ";
     public static final String PLACES_DEFAULT = " Анапский район, ";
     public static final String PLACE_REPLACE1 = " Анапа, ";

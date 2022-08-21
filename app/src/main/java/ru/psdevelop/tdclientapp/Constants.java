@@ -1,5 +1,5 @@
 package ru.psdevelop.tdclientapp;
 
 public class Constants {
-    public static final String CHAT_SERVER_URL = "http://85.175.227.245:8081";
+    public static final String CHAT_SERVER_URL = "http://45.141.103.215:8081";
 }
